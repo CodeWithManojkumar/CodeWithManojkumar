@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Manoj
-- 👀 I’m interested in Machine Learning application in Astronomy...
-- 🌱 I’m currently learning in IIT Kharagpur..
-- 💞️ I’m looking to collaborate on ..
-- 📫 You can reach me via manojkumariitian3899@gmail.com...
+- 👋 <code>Hi, I’m __Manoj__</code>
+- 👀 <code>I’m interested in <b>Machine Learning application in Astronomy</b>...</code>
+- 🌱 <code>I’m currently learning in <b>IIT Kharagpur</b>..</code>
+- 💞️ <code>I’m looking to collaborate on some off Machine Learning Projects..</code>
+- 📫 <code>You can reach me via manojkumariitian3899@gmail.com...</code>
 
 <!---
 CodeWithManojkumar/CodeWithManojkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
